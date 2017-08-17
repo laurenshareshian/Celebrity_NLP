@@ -1,0 +1,1 @@
+Clustering, topic analysis, article recommendation, and sentiment analysis of celebrity gossip. View the Get_Data file to see how I scraped TMZ and Twitter. See the Analyze_Data file for the analysis. 
